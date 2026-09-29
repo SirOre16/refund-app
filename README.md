@@ -30,17 +30,3 @@ The API key will be deleted from the DeepSeek dashboard after one week following
 - Docker support for running the application
 
 
-## Project Structure
-
-refund-app/
-│
-├── index.php
-├── ai.php
-├── admin.php
-├── db.php
-├── database.sql
-├── modafvibe.png
-├── chat-header.php
-├── docker-compose.yml
-├── Dockerfile
-└── README.md
